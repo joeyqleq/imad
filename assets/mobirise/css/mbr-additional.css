@@ -801,7 +801,7 @@ img,
 .image-wrap,
 .google-map,
 .item-wrapper {
-  border-radius: 0 !important;
+  border-radius: 1rem !important;
 }
 .item-wrap {
   border-radius: 20px;
@@ -1353,7 +1353,7 @@ img,
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #5fb4d9;
+  background-color: #ff80e3;
   opacity: .7;
   z-index: 1;
   pointer-events: none;
@@ -10526,7 +10526,7 @@ img,
 }
 .cid-uzGM5rZVTM {
   padding-top: 8rem;
-  padding-bottom: 3rem;
+  padding-bottom: 5rem;
   background-color: #ffb2ef;
 }
 .cid-uzGM5rZVTM .mbr-section-title {
@@ -10759,7 +10759,7 @@ img,
 }
 .cid-0XQ94wu9w9 {
   padding-top: 120px;
-  padding-bottom: 120px;
+  padding-bottom: 45px;
   background-color: #ffb2ef;
 }
 .cid-0XQ94wu9w9 .mbr-section {
